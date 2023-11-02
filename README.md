@@ -14,7 +14,7 @@ Creative, yet disciplined, results-focused, end-to-end data and visualization de
  
 TABLEAU SHOWCASE:
 - public.tableau.com/profile/businessgymnast
-- Certification: Tableau Desktop Specialist
+- Certifications: Tableau Certified Data Analyst & Tableau Desktop Specialist
 - Collaboration with Clients on Visual Design of Charts and Dashboards.
 - Dashboard Interactivity utilizing Filter, Parameter, Set, Highlight, and Go-to Actions.
 - Calculations including LOD (Level of Detail) Expressions and Table Calculations.
