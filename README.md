@@ -20,6 +20,8 @@ TABLEAU SHOWCASE:
 - Calculations including LOD (Level of Detail) Expressions and Table Calculations.
 - Live and Extract Data Connections. Simple to Complex Data Structures.
 - Tableau Prep Builder ETL Data Flow Development
+- Tableau Server/Cloud Site (basic administration)
+- TSC & Hyper API (Python), Embedding API (v3)
 
 100% Remote
 
