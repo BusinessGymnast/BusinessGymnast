@@ -1,6 +1,6 @@
 The Business Gymnast
 
-Tableau Developer | Consultant
+Data & Tableau Developer | Consultant
 
 FOCUS: 
 - Tableau Data Visualizations.
